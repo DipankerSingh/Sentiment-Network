@@ -27,4 +27,5 @@ Start up your Jupyter notebook server.
 
 Open SentimentNetwork.ipynb.
 
-## Credits: Andrew Trask :)  
+## Credits:
+This project was performed for learning purpose! Thank You Andrew Trask (@iamtrask) :)  
