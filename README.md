@@ -53,7 +53,7 @@ For more information on this watch this: https://www.youtube.com/watch?v=GUtlrDb
 
 For more information on this watch this: https://www.youtube.com/watch?v=GUtlrDbHhJM&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA&index=5 
 
-3)tf idf can be used to reduce the dimension of the vectors into the the specified dimension. And the results can be plotted(which would have been difficult in high dimension) to compare the vectors.
+3)***tf-idf*** can be used to reduce the dimension of the vectors into the the specified dimension. And the results can be plotted(which would have been difficult in high dimension) to compare the vectors.
 
 4)Improving the speed of training is important. Why ? Obviously this will help us train our network faster and if the training data is very large, it is more beneficial to cover the data faster as we will know more about the varaince in our data set which will help in increasing the accuracy. Also this will help us reduce our idle time. :P
 
